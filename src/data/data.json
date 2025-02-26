@@ -1,0 +1,70 @@
+{
+  "Header": {
+    "title": "Knights Robotics",
+    "paragraph": "Metro East Lutheran High School - FTC Robotics Team"
+  },
+  "About": {
+    "paragraph": "FTC is designed for those who want to compete head to head, using a sports model. Teams of up to 15 students are responsible for designing, building, and programming their robots to compete in an alliance against other teams. The robot kit is reusable from year-to-year and is programmed using Java. Teams, including coaches, mentors, and volunteers, are required to develop strategies and build robots based on sound engineering principles. Awards are given for robot performance, community outreach, robot design, and other real-world accomplishments",
+    "Why": [
+      "Design, build, and program robots",
+      "Apply math and science concepts",
+      "Develop problem-solving, organizational, and team-building skills"
+    ],
+    "Why2": [
+      "Compete in alliances and tournaments",
+      "Possibly earn a place at the World Championship",
+      "Qualify for over $26 million in scholarships"
+    ]
+  },
+
+  "Events": [
+    {
+      "day": "7",
+      "month": "Sep",
+      "title": "6:00-7:30PM - Introduction Team Meeting",
+      "text": "Intoduction to FTC Robotics"
+    },
+    {
+      "day": "10",
+      "month": "Sep",
+      "title": "9:00AM-1:00PM - Launch Event @ SIUE",
+      "text": "Meet with other teams, learn about upcoming season"
+    },
+    {
+      "day": "12",
+      "month": "Sep",
+      "title": "6:00-7:30PM - Monday Team Meetings",
+      "text": "Reoccuring Monday Meeting"
+    },
+    {
+      "day": "14",
+      "month": "Sep",
+      "title": "3:30-5:00PM - Wednesday Team Meetings",
+      "text": "Reoccuring Wednesday Meeting"
+    },
+    {
+      "day": "12",
+      "month": "Nov",
+      "title": "9:00 AM - 2:30PM - First Meet",
+      "text": "First Meet of Season"
+    },
+    {
+      "day": "10",
+      "month": "Dec",
+      "title": "9:00 AM - 2:30PM - Second Meet",
+      "text": "Centralia High School"
+    },
+    {
+      "day": "14",
+      "month": "Jan",
+      "title": "9:00 AM - 2:30PM - Third Meet",
+      "text": "Granite City High School"
+    },
+    {
+      "day": "11",
+      "month": "Feb",
+      "title": "8:00 AM - 5:30PM - Qualifier",
+      "text": "Wesclin High School"
+    }
+  ]
+}
